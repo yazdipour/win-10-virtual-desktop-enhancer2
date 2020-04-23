@@ -10,7 +10,7 @@
 
 Incase If you didn't know: To change your V-Desktops, Scrolling on Taskbar.
 
-![win](docs/win.jpg)
+![win](docs/win.png)
 
 ## Introduction
 
