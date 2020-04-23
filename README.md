@@ -6,7 +6,11 @@
 
 **NEW** Also I added Ctrl+Alt+⬅➡ shortcut to navigate between desktops easier. (With one hand)
 
-![shortcut](shortcut.jpg)
+![shortcut](docs/shortcut.jpg)
+
+Incase If you didn't know: To change your V-Desktops, Scrolling on Taskbar.
+
+![win](docs/win.jpg)
 
 ## Introduction
 
