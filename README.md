@@ -1,6 +1,12 @@
 # Windows 10 Virtual Desktop Enhancer
 
-**Warning:** I am officially no longer maintaining this project due to lack of time and interest. Thanks for using it and for all of your work towards helping me improve it. -sdias
+## FORK
+
+**0.11.3:** I updated the original repo to the config that works for me.
+
+**NEW** Also I added Ctrl+Alt+⬅➡ shortcut to navigate between desktops easier. (With one hand)
+
+![shortcut](shortcut.jpg)
 
 ## Introduction
 
