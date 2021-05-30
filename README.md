@@ -1,5 +1,11 @@
 # Windows 10 Virtual Desktop Enhancer
 
+## News
+
+* virtual-desktop-accessor.dll does not work with Build 21390 because of current underlying changes in Windows.
+* I am archiving this project too because of many changes in Windows.
+* Best Alternative and my recommendation: https://github.com/mzomparelli/zVirtualDesktop
+
 ## FORK
 
 **0.11.3:** I updated the original repo to the config that works for me.
